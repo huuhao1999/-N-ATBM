@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\antbm do an.exe.config
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\antbm do an.exe
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\antbm do an.pdb
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm do an.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.f_Admin.resources
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.f_DangNhap.resources
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.Properties.Resources.resources
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm do an.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm do an.csproj.CopyComplete
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm do an.exe
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm do an.pdb
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oci.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oramts.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oramts12.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oramtsus.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\orannzsbb12.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oraocci12.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oraocci12d.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oraociei12.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\oraons.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\bin\Debug\OraOps12.dll
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.ChucNang_form.resources
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Priv.resources
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Priv_Type.resources
+C:\Users\Admin\Desktop\ATBM\New folder (2)\antbm do an\antbm do an\obj\Debug\antbm_do_an.Choose_Table.resources
