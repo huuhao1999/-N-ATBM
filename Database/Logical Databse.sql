@@ -31,6 +31,9 @@ ALTER TABLE NHANVIEN
 ALTER TABLE TRUC_PHONG_KHAM
    DROP CONSTRAINT TRUC;
 */
+
+
+alter session set _ORACLE_SCRIPT = true;
 BEGIN 
     EXECUTE IMMEDIATE 'DROP TABLE DBA_USER.BENH_NHAN CASCADE CONSTRAINTS';
     EXECUTE IMMEDIATE 'DROP TABLE DBA_USER.DANH_SACH_DON_THUOC CASCADE CONSTRAINTS';
@@ -103,9 +106,10 @@ ALTER USER LBACSYS IDENTIFIED BY "123";
 /
 
 
------------------------------------------------------------------------- CAU 1 ------------------------------------------------------------------------
 
+------------------------------------------------------------------------ CAU 1 ------------------------------------------------------------------------
 conn DBA_USER/"123";
+/
 /*==============================================================*/
 /* Table: BENH_NHAN                                             */
 /*==============================================================*/
