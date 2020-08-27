@@ -20,14 +20,13 @@ namespace antbm_do_an
         //public string username;
         public ChucNang_form(f_DangNhap form)
         {
-            is_DBA = Oracle.Is_DBA(Login_Form.conn, Login_Form.LogedIn_Username);
+           
             Login_Form = form;
             InitializeComponent();
-            if (is_DBA)
-            {
+         
                 GetUsers();
                 GetRoles();
-            }
+          
             RoleTab = tabControl2.TabPages[1];
         }
 
